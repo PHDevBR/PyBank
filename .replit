@@ -1,2 +1,2 @@
 language = 'Python'
-run = 'python bank.py'
+run = 'cd PyBank && python bank.py'
